@@ -1,18 +1,14 @@
-Time-stamp: <2025-01-23 16:13:27 UTC liman>
+Time-stamp: <2025-01-23 16:14:57 UTC liman>
 
 # DNS Hackathon 2025
 
-Welcome to the DNS Hackathon 2025, sponsored by Netnod, RIPE
-NCC, and DNS-OARC.
-
-More information will follow.
-
-# DNS Hackathon 2025
-
-During March 15–16 (the weekend before [Netnod meeting]
+Welcome to the DNS Hackathon 2025, hosted by Netnod, RIPE NCC, and
+DNS-OARC. During March 15–16 (the weekend before [Netnod meeting]
 (https://www.netnod.se/event/netnod-meeting2025/)), a DNS Hackathon
 will be held with hackers gathered from all corners of the world to
 work on DNS.
+
+More information will follow.
 
 ## Hosts
 
