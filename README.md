@@ -1,4 +1,4 @@
-Time-stamp: <2025-01-23 16:06:35 UTC liman>
+Time-stamp: <2025-01-23 16:11:39 UTC liman>
 
 # DNS Hackathon 2025
 
@@ -7,8 +7,7 @@ NCC, and DNS-OARC.
 
 More information will follow.
 
-
-[//]: # (![DNS Hackathon 2025](/Netnod-Hackathon-Banner-1-1200x580.jpg))
+[//]: # (![DNS Hackathon 2025](/Netnod-Hackathon-Banner-1-1200x580.jpg))  
 
 # DNS Hackathon 2025
 
