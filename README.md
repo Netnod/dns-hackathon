@@ -1,4 +1,4 @@
-Time-stamp: <2025-01-23 16:14:57 UTC liman>
+Time-stamp: <2025-01-23 16:15:42 UTC liman>
 
 # DNS Hackathon 2025
 
@@ -13,8 +13,8 @@ More information will follow.
 ## Hosts
 
 The Hackathon is hosted by [Netnod](https://www.netnod.se/),
-[DNS-OARC](https://www.dns-oarc.net/), and [RIPE NCC]
-(https://www.ripe.net/).
+[DNS-OARC](https://www.dns-oarc.net/), and
+[RIPE NCC](https://www.ripe.net/).
 
 ## Sponsors
 
