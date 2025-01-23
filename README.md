@@ -1,4 +1,4 @@
-Time-stamp: <2025-01-23 16:12:51 UTC liman>
+Time-stamp: <2025-01-23 16:13:27 UTC liman>
 
 # DNS Hackathon 2025
 
@@ -6,8 +6,6 @@ Welcome to the DNS Hackathon 2025, sponsored by Netnod, RIPE
 NCC, and DNS-OARC.
 
 More information will follow.
-
-[//]: <> (![DNS Hackathon 2025](/Netnod-Hackathon-Banner-1-1200x580.jpg))  
 
 # DNS Hackathon 2025
 
